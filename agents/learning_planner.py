@@ -3,8 +3,8 @@ from core.llm import ollama_llm
 
 learning_planner = Agent(
     role="Learning Planner",
-    goal="Create an upskilling roadmap",
-    backstory="You design practical learning paths for professionals.",
+    goal="Create learning roadmap",
+    backstory="Curriculum designer",
     llm=ollama_llm,
-    verbose=False,
+    verbose=True
 )

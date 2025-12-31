@@ -3,8 +3,8 @@ from core.llm import ollama_llm
 
 profile_curator = Agent(
     role="Profile Curator",
-    goal="Extract skills and suitable roles from a resume",
-    backstory="You analyze resumes and identify core skills and job roles.",
+    goal="Extract skills and roles from resume",
+    backstory="Expert resume analyst",
     llm=ollama_llm,
-    verbose=False,
+    verbose=True
 )

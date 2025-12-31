@@ -3,8 +3,8 @@ from core.llm import ollama_llm
 
 skill_gap_analyst = Agent(
     role="Skill Gap Analyst",
-    goal="Identify missing skills for target roles",
-    backstory="You compare candidate skills with industry requirements.",
+    goal="Identify missing skills",
+    backstory="Upskilling strategist",
     llm=ollama_llm,
-    verbose=False,
+    verbose=True
 )
