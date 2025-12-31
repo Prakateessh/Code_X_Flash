@@ -93,7 +93,7 @@ Designed to **avoid bans and ToS violations**.
 
 ---
 
-## 🚀 Deployment (Hackathon‑Friendly)
+## 🚀 Deployment
 - **Backend:** FastAPI + Docker → Google Cloud Run  
 - **Frontend:** Next.js → Vercel  
 - **DB:** Postgres + pgvector (Supabase / Neon)  
