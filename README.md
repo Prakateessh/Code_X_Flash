@@ -2,7 +2,7 @@
 # From Scroll to Offer 🚀  
 ### An 8‑Agent AI Mentor That Automates Job Readiness
 
-A **hackathon‑ready, agentic AI system** that transforms career preparation from a fragmented, manual grind into a **continuous, automated, and personalized journey** — from skill discovery to job offer decision-making.
+A **agentic AI system** that transforms career preparation from a fragmented, manual grind into a **continuous, automated, and personalized journey** — from skill discovery to job offer decision-making.
 
 ---
 
@@ -111,12 +111,6 @@ Includes:
 - 📈 Recommendation uptake: **>40%**
 - 🎓 Interview pass‑rate lift: **~10%**
 
----
-
-## 🛣️ Post‑Hackathon Roadmap
-**Phase 1:** Security hardening & CI/CD  
-**Phase 2:** Scaling & cost optimization  
-**Phase 3:** Non‑engineering roles + ATS integrations  
 
 ---
 
@@ -124,14 +118,6 @@ Includes:
 - Bias monitoring (demographic parity)
 - GDPR / FCRA‑aligned data handling
 - Full user control & transparency
-
----
-
-## 🏁 Why This Wins Hackathons
-✅ Clear real‑world pain  
-✅ Strong agentic AI story  
-✅ Technically deep but demo‑safe  
-✅ Scalable beyond prototype  
 
 ---
 
